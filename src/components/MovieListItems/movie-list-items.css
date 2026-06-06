@@ -1,0 +1,35 @@
+.list-group-item {
+    padding: 15px 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+.list-group-item:last-child {
+    border-bottom: none;
+}
+
+.list-group-item span {
+    line-height: 35px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 550px;
+}
+
+.list-group-item button {
+    width: 35px;
+    height: 35px;
+    font-size: 1rem;
+    cursor: pointer;
+    border: none;
+}
+
+.list-group-item .btn-cookie {
+    color: yellow;
+}
+
+.list-group-item .btn-trash {
+    color: orange;
+}
+
+.list-group-item .btn-cookie:hover {
+    color: gold;
+}

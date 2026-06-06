@@ -12,6 +12,9 @@ const app = () => {
         <div className='search-panel'>
           <SearchPanel/>
           <AppFilter/>
+          <div>
+            
+          </div>
         </div>
       </div>
     </div>
